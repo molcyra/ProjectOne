@@ -1,4 +1,5 @@
+#Git Demo Project
 This is a great repo and here is a link some additional resources:
-AnalystBuilder.com
-git.com
-GitHub.com
+1. AnalystBuilder.com
+2. git-scm.com
+3. GitHub.com
